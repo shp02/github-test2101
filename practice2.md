@@ -25,3 +25,11 @@ $ sudo apt-get install ethereum
 * 프라이빗 네트워크 연결
 <!--image-->
 ![네트워크연결](https://user-images.githubusercontent.com/77226745/104475722-c631ae00-5602-11eb-9d47-16e1b29c8dfa.PNG)
+
+## 4. 기타
+* 오류 github에 업로드 오류
+#### - branch명이 master에서 main으로 변경되었는데 인지하지 못함
+```
+git pull origin main
+git push origin main
+```
