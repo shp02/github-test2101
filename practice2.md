@@ -21,7 +21,7 @@ $ sudo apt-get install ethereum
  Fatal: Failed to write genesis block: unsupported fork ordering: eip150Block not enabled, but eip155Block enabled at 0
  ```
 #### - 오류해결(eip150Block 추가)
-![설정파일 변경](https://user-images.githubusercontent.com/77226745/104475658-b31ede00-5602-11eb-83a7-76bbaa0c166d.PNG)
+![설정파일 변경](https://user-images.githubusercontent.com/77226745/104475695-c0d46380-5602-11eb-8cd3-4cc7cc16927c.PNG)
 * 프라이빗 네트워크 연결
 <!--image-->
 ![네트워크연결](https://user-images.githubusercontent.com/77226745/104475722-c631ae00-5602-11eb-9d47-16e1b29c8dfa.PNG)
